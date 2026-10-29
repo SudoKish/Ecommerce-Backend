@@ -2,7 +2,7 @@
 Django settings for ams_project project.
 Anand Mangal Sports E-Commerce Backend.
 """
-
+import os 
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
