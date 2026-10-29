@@ -1,0 +1,27 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Local environment variables and secrets
+.env
+.env.*
+
+# SQLite databases and backups
+*.sqlite3
+*.sqlite3-journal
+*.db
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE files
+.vscode/
+.idea/
